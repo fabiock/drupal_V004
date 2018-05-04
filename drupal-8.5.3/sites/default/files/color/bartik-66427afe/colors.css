@@ -18,9 +18,9 @@ body {
   border-bottom-color: #ffffff;
 }
 #header {
-  background-color: #1b1b1b;
-  background-image: -webkit-linear-gradient(top, #1b1b1b 0%, #1b1b1b 100%);
-  background-image: linear-gradient(to bottom, #1b1b1b 0%, #1b1b1b 100%);
+  background-color: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff 0%, #ffffff 100%);
+  background-image: linear-gradient(to bottom, #ffffff 0%, #ffffff 100%);
 }
 a,
 .link {
@@ -52,7 +52,7 @@ a:active,
 .site-branding a,
 .region-secondary-menu .menu-item a,
 .region-secondary-menu .menu-item a.is-active {
-  color: #ffffff;
+  color: #1b1b1b;
 }
 
 /* ---------- Color Form ----------- */
